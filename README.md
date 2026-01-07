@@ -54,6 +54,6 @@ cd aws-security-hardening-suite
 
 ## 👨‍💻 Author
 **Renaldi**  
-🔗 [GitHub](https://github.com/SilentVeil) | 🔗 [LinkedIn](https://linkedin.com/in/renaldi-putra)
+🔗 [GitHub](https://github.com/SilentVeil) | 🔗 [LinkedIn](https://linkedin.com/in/renaldi-tan)
 
 *Cloud security portfolio showcasing hands-on AWS security implementations.*
